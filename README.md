@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Sandy Jernigan <br>
-Full Stack web developer with a background in customer service. Experienced in building products in a team setting.
+Full Stack web developer with a background in customer service. Experienced in building products in a remote team setting.
+I currently work in a remote environment as an internal control analyst, were I have to be responsible for deadlines and important time sensitive tasks. 
 
 🌐 [www.sandyjernigan.com](https://sandyjernigan.com) <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-sandy.jernigan%40gmail.com-green)](mailto:sandy.jernigan@gmail.com) <br>
